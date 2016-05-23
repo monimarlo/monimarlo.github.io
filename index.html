@@ -1,0 +1,67 @@
+---
+layout: default
+make-smaller-titles: true
+---
+
+
+<div class="container-fluid index">
+    <div class="row">
+
+        <div class="col-md-12 main content-panel">
+
+            <div class="gravatar">
+                <img src="{{ site.title_image }}" class="img-circle about-image" height="150" width="150" alt="{{ site.title }}" />
+            </div>
+
+            <h1 class="header author-header" itemprop="headline">{{ site.title }}</h1>
+
+            <div class="author-text">
+                {{ site.title_description }}
+            </div>
+
+            {% include social_links.html %}
+          </div>
+          <div class="col-md-12 main content-panel">
+
+            <div class="articles">
+
+              <h2>Últimas entradas</h2>
+
+              <ul>
+                  {% for post in site.posts | limit: site.post_limit %}
+
+                      <li>
+                          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                          <small class="hidden-xs">
+                            {% assign m = post.date | date: "%-m" %}
+                            {{ post.date | date: "%-d" }}
+                            {% case m %}
+                              {% when '1' %}Enero
+                              {% when '2' %}Febrero
+                              {% when '3' %}Marzo
+                              {% when '4' %}Abril
+                              {% when '5' %}Mayo
+                              {% when '6' %}Junio
+                              {% when '7' %}Julio
+                              {% when '8' %}Agosto
+                              {% when '9' %}Septiembre
+                              {% when '10' %}Octubre
+                              {% when '11' %}Noviembre
+                              {% when '12' %}Diciembre
+                            {% endcase %}
+                            del {{ post.date | date: "%Y" }}
+                          </small>
+                      </li>
+
+                  {% endfor %}
+                  <li>
+                      <small><i><a href="{{ site.baseurl }}/posts/">más...</a></i></small>
+                  </li>
+              </ul>
+
+            </div>
+
+        </div>
+
+    </div>
+</div>
