@@ -2,6 +2,7 @@
 layout: post
 date: 2016-05-23 19:06:00
 author: Mónica Martínez
+title: Hablemos de Anna Frank
 summary: Hoy vamos a hablar de Anna Frank
 categories: libros
 thumbnail: heart
