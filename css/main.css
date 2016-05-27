@@ -138,3 +138,39 @@ footer {
 footer .fa-heart {
   color: red;
 }
+
+#contact i {
+  padding-right: 8px;
+}
+
+#contact .fa-envelope {
+  color: black;
+}
+
+#contact .fa-linkedin {
+  color: black;
+}
+
+#contact .fa-twitter {
+  color: black;
+}
+
+#contact .fa-github {
+  color: black;
+}
+
+#contact .fa-envelope:hover {
+  color: red;
+}
+
+#contact .fa-linkedin:hover {
+  color: #0777B4;
+}
+
+#contact .fa-twitter:hover {
+  color: #1DA1F2;
+}
+
+#contact .fa-github:hover {
+  color: #333333;
+}
