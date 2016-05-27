@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre mí
+title: Sobre mí - Mónica Martínez
 permalink: /about/
 ---
 
