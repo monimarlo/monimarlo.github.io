@@ -1,34 +1,24 @@
 # Site settings
 title: "Construyendo Mundos"
-email: monimarlo3@gmail.com
 description: "Este es mi blog personal."
 baseurl: ""
-url: "monimarlo.github.io/"
-title_description: "Este es mi blog personal."
-title_image: "/images/profile.jpg"
-google_analytics: ""
-disqus_account: 
-github_repository: https://github.com/monimarlo/monimarlo.github.io
-addthis_id:   
-post_limit: 5
-
-# Social usernames/URLs
-twitter_username: monimarlo3
-github_username:  monimarlo
-#linkedin_link: http://carte-noire.jacobtomlinson.co.uk/
-#google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
-#stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
-
-# Footer
-footer_left: "De todo <i class=\"fa fa-heart\"></i> por Mónica Martínez</a>"
-footer_right: ""
+url: "monimarlo.github.io"
 
 # Build settings
-markdown: kramdown
-
 kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-
+ input: GFM
+ syntax_highlighter: rouge
 permalink: pretty
-exclude: [vendor]
+gems: [jekyll-paginate]
+paginate_path: "/page/:num"
+paginate: 3
+exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
+
+# Links
+links:
+  - title: "blog"
+    url: 
+  - title: "sobre mí"
+    url: /about
+  - title: "rss"
+    url: /feed.xml

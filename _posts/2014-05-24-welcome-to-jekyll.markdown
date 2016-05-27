@@ -1,18 +1,10 @@
 ---
-published: true
 layout: post
-date: 2016-05-23 19:06:00
-author: Mónica Martínez
-title: Hablemos de Anna Frank
-summary: Hoy vamos a hablar de Anna Frank
-categories: libros
-thumbnail: heart
-tags: 
-  - libro
-  - anna
-  - frank
+title:  "Hablemos de Anna Frank"
+date:   2016-05-23 19:06:00
+categories: jekyll update
+published: true
 ---
-## El diario de Anna Frank
 
 Me encantó leer este diario. Un diario de una niñita que a tan corta edad tuvo que plantearse, cuestionarse y reflexionar sobre cosas tan grandes. Una pequeña alma inocente que ha conquistado a millones de lectores con sus palabras.
 Especialmente me gustaría centrarme en lo que Anna Frank escribió en Martes 4 de Abril de 1944;

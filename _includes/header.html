@@ -1,16 +1,20 @@
-<nav id="my-menu">
-  <div>
-    <p>{{ site.title }}</p>
+<div class="header">
+    <h1>
+        <a style="color: #000;" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    </h1>
+    <p class="sub">
+        {{ site.description }}
+    </p>
 
-    <ul class="pages">
-      <li><a href="/"><i class="fa fa-home"></i> Inicio</a></li>
-      <li><a href="/about"><i class="fa fa-user"></i> Sobre mí</a></li>
-      <li><a href="/posts/"><i class="fa fa-archive"></i> Archivo de entradas</a></li>
-      <li><a href="/search/"><i class="fa fa-search"></i> Buscar entradas</a></li>
-    </ul>
-    </ul>
+    <div class="menu">
+        <ul class="navlist">
+            {% for link in site.links %}
+            <li>
+                <a class="page-link" href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
 
-    {% include social_links.html %}
-  </div>
-</nav>
-<div class="menu-button" href="#menu"><i class="fa fa-bars"></i></div>
+
