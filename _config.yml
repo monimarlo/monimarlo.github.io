@@ -17,7 +17,7 @@ exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
 # Links
 links:
   - title: "blog"
-    url: 
+    url: /
   - title: "sobre mí"
     url: /about
   - title: "rss"
