@@ -1,24 +1,37 @@
+*, *:before, *:after {
+  box-sizing: border-box; 
+}
+
+html, body {
+  width: 100%;
+  max-width: 100%;
+}
+
 body {
   font-family: monospace;
   line-height:150%;
-  margin: 80px 0px;
-  background: url("../images/bg.png")
+  background: url("../images/bg.png");
+  margin: 0;
 }
 
 .container {
   background: #ffe;
   box-shadow: 0 0 10px rgba(0,0,0,0.5);
-  margin: 100px auto 0;
-  max-width: 400px;
+  margin: 100px auto;
+  width: 800px;
   min-height: 300px;
-  padding: 200px;
   position: relative;
-  width: 80%;
+}
+
+.sub-container {
+  width: 60%;
+  margin: 0 auto;
+  padding: 100px 0;
 }
 
 .container:before, .container:after {
   content: "";
-  height: 98%;
+  height: 100%;
   position: absolute;
   width: 100%;
   z-index: -1;
@@ -173,4 +186,18 @@ footer .fa-heart {
 
 #contact .fa-github:hover {
   color: #333333;
+}
+
+@media only screen and (max-device-width: 640px) {
+  body {
+    overflow-x: hidden;
+  }
+  
+  .container {
+    width: 100%;
+  }
+
+  .sub-container {
+    width: 80%;
+  }
 }
