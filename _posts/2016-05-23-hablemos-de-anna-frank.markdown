@@ -2,7 +2,9 @@
 layout: post
 title:  "Hablemos de Anna Frank"
 date:   2016-05-23 19:06:00
-categories: jekyll update
+categories:
+ - libros
+permalink: "blog/hablemos-de-ana-frank"
 published: true
 ---
 
