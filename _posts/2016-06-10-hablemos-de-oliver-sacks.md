@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 layout: post
-date: 2016-06-10T18:59:00.000Z
+date: {}
 category: libros
 permalink: blog/hablemos-de-oliver-sacks
 ---
@@ -17,4 +17,3 @@ Os dejo con la misma pregunta que el libro te anima a reflexionar, en este caso 
 ¿Algún día la sociedad hará una inclusión con todas aquellas personas consideradas diferentes? ¿O continuaremos con este juego de falsa integración?
 
 “Mucha gente pequeña, en lugares pequeños, haciendo cosas pequeñas, puede cambiar el mundo”
-
