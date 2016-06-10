@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Hablemos de Oliver Sacks
-date: {}
+date: 2016-06-10 19:30:00
 category: libros
 permalink: blog/hablemos-de-oliver-sacks
 published: true
 ---
+
 Un hombre que no es capaz de distinguir a su mujer de un sombrero. Un anciano de pelo canoso perdido en su juventud de marinero incapaz de reconocerse en el espejo. Una dama desencarnada con imposibilidad de encontrar su cuerpo si no lo mira. Un hombre que no es capaz de caminar a nivel. Personas que no comprenden las palabras o lo antagónico; que no comprenden la entonación. 
 
 Tics imposibles, identidades perdidas, excitaciones repentinas. Canciones que suenan tan fuerte en el interior que dejan a uno completamente incomunicado. O "simples" mucho menos simples de lo que aparentan por sus extraordinarias aptitudes para las matemáticas o al pintura.
@@ -15,7 +16,8 @@ Os dejo con la misma pregunta que el libro te anima a reflexionar, en este caso 
 
 > ¿Hay algún "lugar" en el mundo para un hombre que es como una isla, que no puede ser aculturado, al que no se le puede hacer formar parte del continente? ¿Puede el "continente" apartarse a lo singular, hacerle un sitio? [...] Y sería muy útil y placentero para los demás, y placentero también para él. Podría hacer todas estas cosas, pero, por desgracia, no hará ninguna, salvo que alguien muy comprensivo, y con oportunidades y medios, pueda guiarlo y emplearlo. Porque, tal como están las cosas, probablemente no haga nada, y lleve una vida inútil y estéril, como la que llevan otros tantos autistas en pabellones retirados de un hospital estatal, donde ni les hacen cosa ni los tienen en cuenta.
 
-![Mujer con cabeza de sombrero]({{site.baseurl}}/_posts/mujer-sombrero.jpg)
+<img src="/images/mujer-sombrero.jpg" width="35%">
+<br>
 
 ¿Algún día la sociedad hará una inclusión con todas aquellas personas consideradas diferentes? ¿O continuaremos con este juego de falsa integración?
 
