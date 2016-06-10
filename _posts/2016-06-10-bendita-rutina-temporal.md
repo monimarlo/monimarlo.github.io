@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 layout: post
-date: 2016-05-23T20:34:00.000Z
+date: {}
 category: vivencias
 permalink: blog/bendita-rutina-temporal
 title: Bendita rutina temporal
