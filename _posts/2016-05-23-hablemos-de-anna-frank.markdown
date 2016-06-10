@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Hablemos de Anna Frank"
-date:   2016-05-23 19:06:00
+title: Hablemos de Anna Frank
+date: 2016-05-23T19:06:00.000Z
 categories:
- - libros
-permalink: "blog/hablemos-de-ana-frank"
+  - libros
+  - cacas
+permalink: blog/hablemos-de-ana-frank
 published: true
+category: libros
 ---
 
 Me encantó leer este diario. Un diario de una niñita que a tan corta edad tuvo que plantearse, cuestionarse y reflexionar sobre cosas tan grandes. Una pequeña alma inocente que ha conquistado a millones de lectores con sus palabras.
