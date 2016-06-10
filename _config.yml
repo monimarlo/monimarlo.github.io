@@ -12,6 +12,7 @@ permalink: pretty
 gems: [jekyll-paginate]
 paginate_path: "/page/:num"
 paginate: 3
+future: true
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
 
 # Links
