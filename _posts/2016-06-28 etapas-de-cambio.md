@@ -3,12 +3,12 @@ layout: post
 title: Etapas de cambio
 date: 2016-06-28 19:30:00
 category: social
-permalink: blog/hablemos-de-oliver-sacks
+permalink: blog/etapas-de-cambio
 published: true
 ---
 
 Hacer un cambio siempre es complicado. ¿Alguna vez te has preguntado qué fases atravesamos cuando nos proponemos hacerlo?
-Como estudiante de Trabajo Social conocer esta dinámica de cambio e incluso las intervenciones pertinentes en cada momento me pareció fundamental y muy importante para poder lidiar con los problemas a los que cada uno de nosotros nos enfrentamos.  Siendo realmente este proceso realizado también en los cambios más insignificantes de la vida cotidiana.
+Como estudiante de Trabajo Social conocer esta dinámica de cambio e incluso las intervenciones pertinentes en cada momento me pareció fundamental y muy importante para poder lidiar con los problemas a los que cada uno de nosotros nos enfrentamos. Siendo realmente este proceso realizado también en los cambios más insignificantes de la vida cotidiana.
 Por ello comparto lo aprendido con vosotros.
 Dividiremos todo el proceso en cinco etapas bien diferenciadas:
 
