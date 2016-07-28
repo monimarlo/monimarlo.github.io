@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Etapas de cambio
-date: 2016-06-28 19:30:00
+date: 2016-07-28 19:30:00
 category: social
 permalink: blog/etapas-de-cambio
 published: true
