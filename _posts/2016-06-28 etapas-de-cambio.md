@@ -17,7 +17,7 @@ No hay ningún interés por cambiar ya que no se reconoce la situación en cuest
 ##¿Qué debemos hacer?
 Evitar perder el contacto con la persona, por el contrario intentar establecer una relación de confianza y empatía. Sin tratar necesariamente la cuestión del cambio en un primer momento.
 
-<img src="/images/precontemplacion.jpg" width="50%">
+<img src="/images/precontemplacion.png" width="50%">
 
 #Contemplación:
 Comienza a plantearse el cambio es posible en un futuro. Se inicia la motivación para el cambio, en ocasiones por algún evento puntual.
@@ -45,7 +45,7 @@ El cambio ya se ha realizado y perdura en un tiempo más o menos de 6 meses.
 ##¿Qué debemos hacer?
 Apoyar, reforzar, afianzar la autoestima para prevenir recaídas o lapsos. 
 
-<img src="/images/manteniminto.jpg" width="50%">
+<img src="/images/mantenimiento.jpg" width="50%">
 
 Aparte del proceso continuo de etapas de cambio nos podemos encontrar en el camino con algunas dificultades entre las que nos encontramos con:
 
