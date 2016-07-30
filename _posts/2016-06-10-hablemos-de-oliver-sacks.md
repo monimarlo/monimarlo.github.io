@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Hablemos de Oliver Sacks
+title: Oliver Sacks y sus extraordinarios casos
 date: 2016-06-10 19:30:00
 category: libros
-permalink: blog/hablemos-de-oliver-sacks
+permalink: blog/oliver-sacks-y-sus-extraordinarios-casos
 published: true
 ---
 
 Un hombre que no es capaz de distinguir a su mujer de un sombrero. Un anciano de pelo canoso perdido en su juventud de marinero incapaz de reconocerse en el espejo. Una dama desencarnada con imposibilidad de encontrar su cuerpo si no lo mira. Un hombre que no es capaz de caminar a nivel. Personas que no comprenden las palabras o lo antagónico; que no comprenden la entonación. 
 
 Tics imposibles, identidades perdidas, excitaciones repentinas. Canciones que suenan tan fuerte en el interior que dejan a uno completamente incomunicado. O "simples" mucho menos simples de lo que aparentan por sus extraordinarias aptitudes para las matemáticas o al pintura.
-De todo esto y de mucho más no habla el maravilloso libro de historiales médicos escrito por uno de los grandes autores clínicos, Oliver Sacks. Entre pérdidas, excesos, arrebatos y "simples" los casos de estos pacientes no te dejarán indiferentes.
+De todo esto y de mucho más nos habla el maravilloso libro de historiales médicos escrito por uno de los grandes autores clínicos, Oliver Sacks. Entre pérdidas, excesos, arrebatos y "simples" los casos de estos pacientes no te dejarán indiferente.
 
 Os dejo con la misma pregunta que el libro te anima a reflexionar, en este caso relacionado con el mundo de los autistas, pero que podemos extrapolar a cualquier caso que se salga de lo común:
 

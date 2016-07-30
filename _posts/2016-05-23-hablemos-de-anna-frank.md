@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Hablemos de Anna Frank
+title: Anna Frank y su maravilloso empoderamiento
 date: 2016-05-23 19:06:00
 category: libros
-permalink: blog/hablemos-de-ana-frank
+permalink: blog/ana-frank-y-su-maravilloso-empoderamiento
 published: true
 ---
 

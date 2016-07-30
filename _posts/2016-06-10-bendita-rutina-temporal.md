@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: 2016-06-10 20:30:00
-category: vivencias
+category: personal
 permalink: blog/bendita-rutina-temporal
 title: Bendita rutina temporal
 ---

@@ -7,20 +7,20 @@ permalink: blog/etapas-de-cambio
 published: true
 ---
 
-Hacer un cambio siempre es complicado. ¿Alguna vez te has preguntado qué fases atravesamos cuando nos proponemos hacerlo?
-Como estudiante de Trabajo Social conocer esta dinámica de cambio e incluso las intervenciones pertinentes en cada momento me pareció fundamental y muy importante para poder lidiar con los problemas a los que cada uno de nosotros nos enfrentamos. Siendo este proceso realizado también en los cambios más insignificantes de la vida cotidiana, por ello comparto lo aprendido con vosotros.
+Hacer un cambio siempre es complicado. ¿Alguna vez te has preguntado por qué fases atraviesa una persona cuando se propone hacerlo? ¿Sabrías como actuar para ayudarle?
+Como estudiante de Trabajo Social conocer esta dinámica de cambio, identificar la etapa por la que están pasando y saber que intervenciones son pertinentes en cada momento me pareció fundamental y muy importante para poder lidiar con los problemas a los que cada uno de nosotros nos enfrentamos. Y aunque no lo parezca este proceso se lleva a cabo también en los cambios más insignificantes de la vida cotidiana, por ello comparto lo aprendido con vosotros.
 Dividiremos todo el proceso en cinco etapas bien diferenciadas:
 
 # Precontemplación:
 No hay ningún interés por cambiar ya que no se reconoce la situación en cuestión como problemática.
 
 ## ¿Qué debemos hacer?
-Evitar perder el contacto con la persona, por el contrario intentar establecer una relación de confianza y empatía. Sin tratar necesariamente la cuestión del cambio en un primer momento.
+Evitar perder el contacto con la persona e intentar establecer una relación de confianza y empatía. Sin tratar necesariamente la cuestión del cambio en un primer momento.
 
 <img src="/images/precontemplacion.png" width="80%">
 
 # Contemplación:
-Comienza a plantearse el cambio es posible en un futuro. Se inicia la motivación para el cambio, en ocasiones por algún evento puntual.
+Comienza a plantearse que el cambio es posible en un futuro. Se inicia la motivación para el cambio, en ocasiones por algún evento puntual.
 
 ## ¿Qué debemos hacer?
 Ahora sí, una vez reconocida la problemática debemos generar una mayor motivación al cambio. También es de ayuda cuestionarles para afianzar el proceso y colaborar junto a ellos.
@@ -31,7 +31,7 @@ Ahora sí, una vez reconocida la problemática debemos generar una mayor motivac
 Se es totalmente consciente de que la situación es un problema y se decide actuar para cambiarla.
 
 ## ¿Qué debemos hacer?
-Podemos analizar con la persona qué cosas ha de cambiar, cómo va a hacerlo, las dificultades que podrá encontrar y el cómo superarlas, qué cosas mejoraran en su vida cuando lo logre…
+Podemos analizar con la persona qué cosas ha de cambiar, cómo va a hacerlo, las dificultades que podrá encontrar y el cómo superarlas, qué cosas mejoraran en su vida cuando lo logre, etc.
 
 <img src="/images/determinacion.jpg" width="80%">
 
@@ -64,6 +64,6 @@ Se da cuando una vez realizado el proceso de cambio por más de 6 meses la condu
 <img src="/images/recaida.jpg" width="80%">
 
 ## ¿Qué debemos hacer en estas situaciones?
-En primer lugar y en muchas ocasiones el más complicado es lograr detectar que este lapso o recaída ha ocurrido. Después proceder a analizar la causa que ha llevado a la repetición de la conducta y determinar alternativas para evitar que vuelva a suceder. Ante todo se debe normalizar la situación e intentar que la autoestima y autoconfianza de la persona continúe siendo alta para continuar con el proceso. Sería bueno también asegurarse de que el compromiso y la motivación para el cambio siguen existiendo.
-Si ha sido un lapso el proceso debe continuar, en cambio si se ha dado una recaída debemos asegurarnos bien de en qué momento se encuentra la persona para realizar las intervenciones pertinentes a cada fase.
+En primer lugar y en muchas ocasiones lo más complicado es lograr detectar que este lapso o recaída ha ocurrido. Después proceder a analizar la causa que ha llevado a la repetición de la conducta y determinar alternativas para evitar que vuelva a suceder. Ante todo se debe normalizar la situación e intentar que la autoestima y autoconfianza de la persona continúe siendo alta para seguir con el proceso. Sería bueno también asegurarse de que el compromiso y la motivación para el cambio siguen existiendo.
+Si ha sido un lapso, el proceso debe continuar; en cambio si se ha dado una recaída debemos asegurarnos bien de en qué momento se encuentra la persona para realizar las intervenciones pertinentes a cada fase.
 
