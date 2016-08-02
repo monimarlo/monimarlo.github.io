@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sentirse como...
-date: 2016-08-02 19:30:00
+date: 2016-08-01 19:30:00
 category: personal
 permalink: blog/sentirse-como
 published: true
