@@ -15,11 +15,13 @@ D...igo siempre lo que pienso.
 
 O...bedezco sin cuestionar nada.
 
+<br>
 
 E...s muy fácil para mi aceptar críticas.
 
 L...a confianza no da asco.
 
+<br>
 
 M...iento si digo que alguna vez he tenido envidia.
 
@@ -31,6 +33,7 @@ D...oy lo mejor de mi en cada momento.
 
 O...dio las drogas.
 
+<br>
 
 M...e niego a cambiar.
 
@@ -45,6 +48,6 @@ T....e amo.
 E....staré siempre ahí para todos.
 
 
-img src="/images/house.jpg" width="75%">
+<img src="/images/house.jpg" width="75%">
 
 
