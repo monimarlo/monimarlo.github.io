@@ -7,13 +7,13 @@ permalink: blog/everybody-lies-everybody-dies
 published: true
 ---
 
-T... odo el mundo dice siempre la verdad.
+**T**... odo el mundo dice siempre la verdad.
 
-O... bservo a la gente sin juzgarla.
+**O**... bservo a la gente sin juzgarla.
 
-D... igo siempre lo que pienso.
+**D**... igo siempre lo que pienso.
 
-O... bedezco sin cuestionar nada.
+**O**... bedezco sin cuestionar nada.
 
 <br>
 
@@ -47,6 +47,7 @@ O... bedezco sin cuestionar nada.
 
 **E**... staré siempre ahí para todos.
 
+<br>
 
 <img src="/images/house.jpg" width="95%">
 
