@@ -14,6 +14,12 @@ body {
   margin: 0;
 }
 
+#circular_logo {
+  border-radius: 100%;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+}
+
 .container {
   background: #ffe;
   box-shadow: 0 0 10px rgba(0,0,0,0.5);
