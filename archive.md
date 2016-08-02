@@ -1,8 +1,7 @@
 ---
-layout: default
-title: Archive
+layout: page
+title: Archivo - Mónica Martínez
 permalink: /archive/
-published: true
 ---
 
 <script type="text/javascript">
