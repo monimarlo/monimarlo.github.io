@@ -7,47 +7,47 @@ permalink: blog/everybody-lies-everybody-dies
 published: true
 ---
 
-T...odo el mundo dice siempre la verdad.
+T... odo el mundo dice siempre la verdad.
 
-O...bservo a la gente sin juzgarla.
+O... bservo a la gente sin juzgarla.
 
-D...igo siempre lo que pienso.
+D... igo siempre lo que pienso.
 
-O...bedezco sin cuestionar nada.
-
-<br>
-
-E...s muy fácil para mi aceptar críticas.
-
-L...a confianza no da asco.
+O... bedezco sin cuestionar nada.
 
 <br>
 
-M...iento si digo que alguna vez he tenido envidia.
+**E**... s muy fácil para mi aceptar críticas.
 
-U...n día descubriremos que somos especiales.
-
-N...o voy a morir.
-
-D...oy lo mejor de mi en cada momento.
-
-O...dio las drogas.
+**L**... a confianza no da asco.
 
 <br>
 
-M...e niego a cambiar.
+**M**... iento si digo que alguna vez he tenido envidia.
 
-I.....ntento defraudar a la gente.
+**U**... n día descubriremos que somos especiales.
 
-E....l amor amor que siento por ti no lo podrá cambiar nada ni nadie.
+**N**... o voy a morir.
 
-N....o dudo de mis amigos.
+**D**... oy lo mejor de mi en cada momento.
 
-T....e amo.
+**O**... dio las drogas.
 
-E....staré siempre ahí para todos.
+<br>
+
+**M**... e niego a cambiar.
+
+**I**... ntento defraudar a la gente.
+
+**E**... l amor amor que siento por ti no lo podrá cambiar nada ni nadie.
+
+**N**... o dudo de mis amigos.
+
+**T**... e amo.
+
+**E**... staré siempre ahí para todos.
 
 
-<img src="/images/house.jpg" width="75%">
+<img src="/images/house.jpg" width="95%">
 
 
