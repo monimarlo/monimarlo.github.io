@@ -13,6 +13,8 @@ En cuanto acabas de devorarlos, te pones la mochila al hombro y esperas paciente
 
 <img src="/images/2848_Camino-de-Santiago..jpg" width="75%">
 
+<a href="/images/2848_Camino-de-Santiago..jpg"><img src="/images/2848_Camino-de-Santiago..jpg"></a>
+
 Son las 6 y ya es hora de salir.
 Ahí empieza de verdad el día.
 Con el frío y la oscuridad de la mañana todo parece de cuento. 
