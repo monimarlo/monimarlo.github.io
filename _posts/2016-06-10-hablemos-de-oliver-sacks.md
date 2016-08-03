@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oliver Sacks y sus extraordinarios casos
+title: Oliver Sacks y sus extraordinarios casos.
 date: 2016-06-10 19:30:00
 category: libros
 permalink: blog/oliver-sacks-y-sus-extraordinarios-casos
@@ -16,7 +16,7 @@ Os dejo con la misma pregunta que el libro te anima a reflexionar, en este caso 
 
 > ¿Hay algún "lugar" en el mundo para un hombre que es como una isla, que no puede ser aculturado, al que no se le puede hacer formar parte del continente? ¿Puede el "continente" apartarse a lo singular, hacerle un sitio? [...] Y sería muy útil y placentero para los demás, y placentero también para él. Podría hacer todas estas cosas, pero, por desgracia, no hará ninguna, salvo que alguien muy comprensivo, y con oportunidades y medios, pueda guiarlo y emplearlo. Porque, tal como están las cosas, probablemente no haga nada, y lleve una vida inútil y estéril, como la que llevan otros tantos autistas en pabellones retirados de un hospital estatal, donde ni les hacen cosa ni los tienen en cuenta.
 
-<img src="/images/mujer-sombrero.jpg" width="50%">
+<a href="/images/mujer-sombrero.jpg"><img src="/images/mujer-sombrero.jpg" width="50%"></a>
 <br>
 
 ¿Algún día la sociedad hará una inclusión con todas aquellas personas consideradas diferentes? ¿O continuaremos con este juego de falsa integración?

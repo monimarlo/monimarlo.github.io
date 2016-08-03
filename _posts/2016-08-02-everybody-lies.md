@@ -49,6 +49,6 @@ published: true
 
 <br>
 
-<img src="/images/house.jpg" width="95%">
+<a href="/images/house.jpg"><img src="/images/house.jpg" width="95%"></a>
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Etapas de cambio
+title: Etapas de cambio.
 date: 2016-07-28 19:30:00
 category: social
 permalink: blog/etapas-de-cambio
@@ -17,7 +17,7 @@ No hay ningún interés por cambiar ya que no se reconoce la situación en cuest
 ## ¿Qué debemos hacer?
 Evitar perder el contacto con la persona e intentar establecer una relación de confianza y empatía. Sin tratar necesariamente la cuestión del cambio en un primer momento.
 
-<img src="/images/precontemplacion.png" width="80%">
+<a href="/images/precontemplacion.png"><img src="/images/precontemplacion.png" width="95%"></a>
 
 # Contemplación:
 Comienza a plantearse que el cambio es posible en un futuro. Se inicia la motivación para el cambio, en ocasiones por algún evento puntual.
@@ -25,7 +25,7 @@ Comienza a plantearse que el cambio es posible en un futuro. Se inicia la motiva
 ## ¿Qué debemos hacer?
 Ahora sí, una vez reconocida la problemática debemos generar una mayor motivación al cambio. También es de ayuda cuestionarles para afianzar el proceso y colaborar junto a ellos.
 
-<img src="/images/contemplacion.jpg" width="80%">
+<a href="/images/contemplacion.jpg"><img src="/images/contemplacion.jpg" width="95%"></a>
 
 # Determinación:
 Se es totalmente consciente de que la situación es un problema y se decide actuar para cambiarla.
@@ -33,7 +33,7 @@ Se es totalmente consciente de que la situación es un problema y se decide actu
 ## ¿Qué debemos hacer?
 Podemos analizar con la persona qué cosas ha de cambiar, cómo va a hacerlo, las dificultades que podrá encontrar y el cómo superarlas, qué cosas mejoraran en su vida cuando lo logre, etc.
 
-<img src="/images/determinacion.jpg" width="80%">
+<a href="/images/determinacion.jpg"><img src="/images/determinacion.jpg" width="95%"></a>
 
 # Acción:
 Se inicia el proceso e intenta llevar a cabo el cambio.
@@ -41,7 +41,7 @@ Se inicia el proceso e intenta llevar a cabo el cambio.
 ## ¿Qué debemos hacer?
 Continuar motivando el cambio, reforzar a la persona, estar junto a ella, dar seguridad y confianza en la decisión tomada.
 
-<img src="/images/accion.jpg" width="80%">
+<a href="/images/accion.jpg"><img src="/images/accion.jpg" width="95%"></a>
 
 # Mantenimiento:
 El cambio ya se ha realizado y perdura en un tiempo más o menos de 6 meses.
@@ -49,19 +49,19 @@ El cambio ya se ha realizado y perdura en un tiempo más o menos de 6 meses.
 ## ¿Qué debemos hacer?
 Apoyar, reforzar, afianzar la autoestima para prevenir recaídas o lapsos. 
 
-<img src="/images/mantenimiento.jpg" width="80%">
+<a href="/images/mantenimiento.jpg"><img src="/images/mantenimiento.jpg" width="95%"></a>
 
 Aparte del proceso continuo de etapas de cambio nos podemos encontrar en el camino con algunas dificultades entre las que nos encontramos con:
 
 # Lapso:
 Se da cuando la conducta que se pretende cambiar es repetida en un momento determinado y esporádicamente. Se puede dar en las fases tanto de determinación, acción o mantenimiento.
 
-<img src="/images/lapso.jpg" width="80%">
+<a href="/images/lapso.jpg"><img src="/images/lapso.jpg" width="95%"></a>
 
 # Recaída: 
 Se da cuando una vez realizado el proceso de cambio por más de 6 meses la conducta que se pretendía cambiar retorna. Se da en la etapa de mantenimiento.
 
-<img src="/images/recaida.jpg" width="80%">
+<a href="/images/recaida.jpg"><img src="/images/recaida.jpg" width="95%"></a>
 
 ## ¿Qué debemos hacer en estas situaciones?
 En primer lugar y en muchas ocasiones lo más complicado es lograr detectar que este lapso o recaída ha ocurrido. Después proceder a analizar la causa que ha llevado a la repetición de la conducta y determinar alternativas para evitar que vuelva a suceder. Ante todo se debe normalizar la situación e intentar que la autoestima y autoconfianza de la persona continúe siendo alta para seguir con el proceso. Sería bueno también asegurarse de que el compromiso y la motivación para el cambio siguen existiendo.

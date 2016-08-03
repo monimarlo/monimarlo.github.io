@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Anna Frank y su maravilloso empoderamiento
+title: Anna Frank y su maravilloso empoderamiento.
 date: 2016-05-23 19:06:00
 category: libros
 permalink: blog/ana-frank-y-su-maravilloso-empoderamiento
@@ -18,7 +18,12 @@ Especialmente me gustaría centrarme en lo que Anna Frank escribió en Martes 4 
 > 
 > Tuya, Anna.
 
+
 No debemos conformarnos con lo que es fácil. No debemos quedarnos en nuestra zona de confort. No debemos acomodarnos y monopolizar nuestros días. No debemos permitirnos soñar dormidos… ¡Tenemos que hacerlo despiertos! 
 La lección que Anna Frank con tan solo 14 años puede llegar a darnos es enorme. 
 No quiere ser como las mujeres que la rodean. Quiere ser periodista, escribir, hacer lo que le gusta, sacar todo su potencial y ser buena en ello. Sueña con algo más, dejando a un lado la ignorancia y aspirando alto. Es consciente de sus limitaciones y no por ello deja de intentarlo cada día. Quiere desarrollarse, expresarse, liberarse
 Sueña con llegar a hacer algo grande, y lo mejor de todo es que lo consiguió.
+
+<a href="/images/annafrank.jpg"><img src="/images/annafrank.jpg" width="50%"></a>
+
+
