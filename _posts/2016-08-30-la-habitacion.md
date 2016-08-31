@@ -20,24 +20,43 @@ Cabilando Joy no puede evitar pensar en salir de allí, aunque no será posible 
 <a href="/images/lahabitacionjoy.jpg"><img src="/images/lahabitacionjoy.jpg" width="95%"></a>
 
 >**Joy:** Recuerdas como... ¿Recuerdas como Alicia no estaba siempre en el país de las maravillas?
+<br>
 >**Jack:** Se cayó en un hueco muy profundo.
+<br>
 >**Joy:** Pero yo no siempre estuve en la Habitación, como Alicia. Yo era una chica pequeña llamada Joey. Y yo estaba en una casa, con mi madre y mi padre. Tú los llamarías abuela y abuelo.
+<br>
 >**Jack:** ¡¿Qué casa?!
+<br>
 >**Joy:** Tenía un patio, y teníamos una hamaca. Solíamos balancearnos en la hamaca y comer helado.
+<br>
 >**Jack:** ¿Una casa en la televisión?
+<br>
 >**Joy:** No, Jack, una casa real, no TV. ¿Me estás escuchando? Cuando era un poco mayor, cuando tenía 17, iba caminando para casa...
+<br>
 >**Jack:** ¿Dónde estaba yo?
+<br>
 >**Joy:** Tú aún estabas en el cielo…. Un hombre me hizo creer que su perro estaba enfermo.
+<br>
 >**Jack:** ¿Qué hombre?
+<br>
 >**Joy:** El viejo Nick, así le llamamos. No sé su verdadero nombre… Me hizo creer que su perro estaba enfermo.
+<br>
 >**Jack:** ¿Cómo se llama el perro?
+<br>
 >**Joy:** ¡Jack, no había ningún perro! Él estaba intentando engañarme, ¿entiendes? No había ningún perro, el viejo Nick me secuestró.
+<br>
 >**Jack:** ¡Quiero una historia diferente!
+<br>
 >**Joy:** ¡No, esta historia la tienes que escuchar! Me metió en el cobertizo de su jardín. Aquí, Habitación es el cobertizo. Cerró la puerta y él es el único que sabe la combinación. ¿Sabes? Los números secretos que abren la puerta. Él es el único que los sabe y he estado encerrada aquí por 7 años. He estado aquí por siete años, ¿entiendes?
+<br>
 >**Jack:** ¡Esta historia es aburrida!
+<br>
 >**Joy:** Jack, ¡el mundo es tan grande! Es tan grande que no te lo creerías. Y Habitación es simplemente una parte apestosa de él.
+<br>
 >**Jack:** ¡La Habitación no es apestosa, sólo cuando te tiras un pedo!
+<br>
 >**Joy:** Oh dios...
+<br>
 >**Jack:** ¡No me creo tu mundo apestoso!
 
 <a href="/images/lahabitacionexplicacion.jpg"><img src="/images/lahabitacionexplicacion.jpg" width="95%"></a>
