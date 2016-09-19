@@ -3,7 +3,7 @@ layout: post
 title: El mundo cambia, si cambias tú.
 date: 2016-09-19 13:30:00
 category: social
-permalink: blog/el_mundo_cambia
+permalink: blog/el-mundo-cambia
 published: true
 ---
 
