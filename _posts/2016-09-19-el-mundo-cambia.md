@@ -13,6 +13,5 @@ published: true
 En 4º curso de Trabajo Social de la Universidad de Valencia en el itinerario de Salud se imparte la asignatura de Trabajo Social con personas con diversidad funcional. Dos alumnas que cursaban estos estudios junto con la ayuda de otros estudiantes de Audiovisuales lograron llevar a cabo el video que a continuación os dejo. 
 ¡No tiene desperdicio! Comencemos a cambiar nosotros para hacer que el mundo cambie.
 
-[Google](https://vimeo.com/182065417)
-
-<a href="/images/elmundo.jpg"><img src="/images/elmundo.jpg" width="95%"></a>
+<iframe src="https://player.vimeo.com/video/182065417" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/182065417">&quot;El mundo cambia, si cambias t&uacute;&quot; - CEE Profesor Sebasti&aacute;n Burgos</a> por <a href="https://vimeo.com/viladetoro">Viladetoro Studio</a> en <a href="https://vimeo.com">Vimeo</a>.</p>
