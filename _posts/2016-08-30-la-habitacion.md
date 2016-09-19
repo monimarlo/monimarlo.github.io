@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La habitación
+title: La habitación.
 date: 2016-08-30 19:30:00
 category: películas
 permalink: blog/la_habitación
@@ -11,11 +11,11 @@ published: true
 >**-¿El qué?**
 >**-El mundo.**
 
-Estremecedora y apasionante película que no te dejará indiferente. Nos muestra la desgarradora lucha de Joy por sobrevivir día a día y hacer que su pequeño hijo Jack sea lo más feliz posible. Para él solo existe su madre, silla 1 y 2, lavamanos, lámpara, alfombra, planta, tragaluz, puerta... y armario, donde se tiene que esconder por las noches por si aparece el viejo Nick (el raptor). Gracias a televisión Nick hace magia para llevarles cada día lo que necesitan para vivir.
+Estremecedora y apasionante película que no te dejará indiferente. Nos muestra la desgarradora lucha de Joy por sobrevivir día a día y hacer que su pequeño hijo Jack sea lo más feliz posible. Para él solo existe su madre, Silla 1 y 2, Lavamanos, Lámpara, Alfombra, Planta, Tragaluz, Puerta y Armario, donde se tiene que esconder por las noches por si aparece el viejo Nick (el raptor de Joy). Gracias a Televisión, Nick hace magia llevándoles cada día lo que necesitan para vivir.
 
 <a href="/images/lahabitacionjuntos.png"><img src="/images/lahabitacionjuntos.png" width="95%"></a>
 
-Cabilando Joy no puede evitar pensar en salir de allí, aunque no será posible si Jack no entiende que existe algo más allá fuera de Habitación. Esto realmente es complicado entender para el niño y sorprenderte para el espectador al ver su reacción:
+Joy no puede evitar pensar en salir de allí, aunque no será posible si Jack no entiende que existe algo más allá fuera de Habitación. Esto realmente es complicado de entender para el niño y sorprendente para el espectador al ver su reacción, que podemos leer a continuación:
 
 <a href="/images/lahabitacionjoy.jpg"><img src="/images/lahabitacionjoy.jpg" width="95%"></a>
 
@@ -61,15 +61,15 @@ Cabilando Joy no puede evitar pensar en salir de allí, aunque no será posible 
 
 <a href="/images/lahabitacionexplicacion.jpg"><img src="/images/lahabitacionexplicacion.jpg" width="95%"></a>
 
-La película no queda aquí. Cuando crees que ha pasado la parte más espectacular da un giro total para mostrarte la difícil adaptación al mundo que tienen que lograr. 
+La película no queda aquí, cuando crees que ha pasado la parte más espectacular, da un giro total para mostrarte la difícil adaptación al mundo que tienen que llevar a cabo. 
 Joy debe enfrentarse a una situación familiar totalmente diferente, la persecución de los medios de comunicación, el sentimiento de la pérdidad de tiempo en su vida, la resocialización y la máxima preocupación para que su hijo esté bien.
-Jack por otro lado tiene que enfrentarse a absolutamente todo lo desconocido. Desde la propia luz del sol, la cara de una persona que no sea su madre, los infinitos tipos de comida... o hasta un perro. Descubriendo por primera vez el mundo a los 5 años, excepcionalmente el pequeño consigue adaptarse de una manera mucho más rápida que su madre, ya que no había sido consciente de esto hasta el momento.
+Jack por otro lado tiene que enfrentarse a absolutamente todo lo desconocido; desde la propia luz del sol, la cara de una persona que no sea su madre, los infinitos tipos de comida o hasta un perro. Descubriendo por primera vez el mundo a los 5 años, excepcionalmente el pequeño consigue adaptarse de una manera mucho más rápida que su madre, ya que no había sido consciente del mundo hasta el momento.
 
 
 >Cuando tenía 4 ni sabía que el mundo existía. Y ahora mamá y yo viviremos en él para siempre. 
->Esto es una calle en la ciudad, en un país llamado América. Y la tierra es un planeta azul y verde que siempre gira y no entiendo por qué no nos caemos. 
+>Esto es una calle en la ciudad, en un país llamado América. Y la tierra es un planeta azul y verde que siempre gira y no entiendo por qué no nos caemos.
 >Luego está el espacio exterior. Y nadie sabe dónde está el paraíso. Y mamá y yo hemos decidido que como no sabemos lo que nos gusta lo probaremos todo.
->Hay tantas cosas aquí. Y a veces asusta, pero esto está bien. Porque aun somos tu y yo.
+>Hay tantas cosas aquí. Y a veces asusta, pero esto está bien. Porque aún somos tu y yo.
 
 <a href="/images/lahabitacionhamburguesas.jpg"><img src="/images/lahabitacionhamburguesas.jpg" width="95%"></a>
 
@@ -82,7 +82,6 @@ Jack por otro lado tiene que enfrentarse a absolutamente todo lo desconocido. De
 <a href="/images/lahabitacionhamaca.jpg"><img src="/images/lahabitacionhamaca.jpg" width="95%"></a>
 
 
-Aun habiendo pasado tiempo después de verla continúa evocando en mi sensaciones como el primer día. 
+Aun habiendo pasado tiempo después de verla continúa evocando en mí sensaciones como el primer día. 
 Por ello recomiendo leer la novela en la que se basó la película: **Emma Donoghue (2010) *Room* , Canada, Ireland.**
-Al igual que conocer un caso real, mediatico y muy similar al de Joy y Jack que no debemos pasar por alto, conocido como el Monstruo de Amstetten o Caso Fritzl:[Google](https://es.wikipedia.org/wiki/Caso_Fritzl) 
-	
+Al igual que conocer un caso real, mediático y muy similar al de Joy y Jack que no debemos pasar por alto, conocido como el [Monstruo de Amstetten o Caso Fritzl](https://es.wikipedia.org/wiki/Caso_Fritzl).
