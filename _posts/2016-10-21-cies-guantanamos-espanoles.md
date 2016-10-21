@@ -1,7 +1,7 @@
 ---
 layout: post
 title: El mundo cambia, si cambias tú.
-date: 2016-10-21 20:56:00
+date: 2016-10-21 19:56:00
 category: social
 permalink: blog/cies-guantanamo-espanoles
 published: true
