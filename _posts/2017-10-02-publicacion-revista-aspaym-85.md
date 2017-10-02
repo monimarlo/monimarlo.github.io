@@ -7,6 +7,8 @@ permalink: blog/publicacion_revista_aspaym_85
 published: true
 ---
 
+Como estudiante en prácticas de trabajo social tuve la oportunidad de publicar en la revista trimestral de la asociación [Aspaym](http://aspaymcv.org/) CV.
+
 ## UN DÍA DE REIVINDICACIÓN, DE LUCHA Y DE BÚSQUEDA DEL EMPODERAMIENTO DE LA MUJER
 
 El día 8 de Marzo en ASPAYM CV se ha celebrado el Día Internacional de la Mujer, todas juntas hemos conseguido hacer que sea un día de reivindicación, de lucha y búsqueda de empoderamiento para la mujer.
