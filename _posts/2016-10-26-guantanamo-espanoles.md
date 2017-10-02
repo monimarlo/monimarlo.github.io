@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CIES, Guantánamo españoles
+title: CIES, Guantánamo españoles.
 date: 2016-10-26 17:10:00
 category: social
 permalink: blog/cies-guantanamo-espanoles
