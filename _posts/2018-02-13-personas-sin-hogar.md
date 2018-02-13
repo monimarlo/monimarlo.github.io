@@ -7,7 +7,7 @@ permalink: blog/realidad-sinhogarismo
 published: true
 ---
 
-Centenares de personas sin hogar siguen viviendo en las calles de Valencia cada día. Pero aún se hacen más visibles cuando el invierno se acerca.
+Centenares de personas sin hogar siguen viviendo en las calles de Valencia cada día. Pero este hecho se hace todavía más preocupante cuando el invierno se acerca.
 
 Personalmente me echo las manos a la cabeza cada vez que se repiten las horribles noticias de: *“Alarma de las organizaciones sociales tras la muerte de dos personas sin hogar en Valencia”* de **eldiariocv** o *“Mueren dos indigentes en menos de 30 horas en las calles de Valencia”* del **Levante**. Todo esto en lo poco que llevamos del año 2018, imaginad entonces la de muertes de personas sin hogar que llevamos a las espaldas sin hacer absolutamente nada para evitarlo.
 
