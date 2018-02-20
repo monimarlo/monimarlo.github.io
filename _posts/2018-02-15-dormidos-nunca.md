@@ -12,7 +12,8 @@ Jardinera, estudiante de psicología y diagnosticada desde bien pequeña con bip
 Tras años de problemas de salud mental ha enfrentado su situación de una manera muy particular, a través de su arte inspira a cientos de personas. Poemas, música, charlas… un sinfín de reflexiones que te hacen darte cuenta de que la enfermad mental aún es un tabú enorme y queda mucho por investigar, por conocer y por debatir en sociedad.
 Os recomiendo encarecidamente que conozcáis más a esta mujer, que un día se levantó creyéndose la reencarnación de una Princesa Inca, **¿y por qué no?**.
 
-## A los que se quedaron dormidos en el nunca (Princesa Inca)
+
+# A los que se quedaron dormidos en el nunca (Princesa Inca)
 
 > A los que se quedaron dormidos en el nunca,
 > a los que sueñan sus verdades y se las niegan,
