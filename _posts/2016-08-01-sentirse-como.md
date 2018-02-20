@@ -30,7 +30,7 @@ No encontrar a nadie, al llegar a tu casa después del trabajo.
 
 Que queden tus amigos, y no te avisen.
 
-Confiar en alguien, que te la juega cada días.
+Confiar en alguien, que te la juega cada día.
 
 Que cambien de emisora, en mitad de tu canción favorita.
 
