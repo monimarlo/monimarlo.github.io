@@ -2,7 +2,7 @@
 layout: post
 title: A los que se quedaron dormidos en el nunca.
 date: 2018-02-15 19:30:00
-category: literatura
+category: literatura, películas y mucho más 
 permalink: blog/dormidos-nunca
 published: true
 ---

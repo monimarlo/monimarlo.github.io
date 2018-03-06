@@ -2,7 +2,7 @@
 layout: post
 title: Oliver Sacks y sus extraordinarios casos.
 date: 2016-06-10 19:30:00
-category: literatura, películas y mucho más.
+category: literatura, películas y mucho más
 permalink: blog/oliver-sacks-y-sus-extraordinarios-casos
 published: true
 ---

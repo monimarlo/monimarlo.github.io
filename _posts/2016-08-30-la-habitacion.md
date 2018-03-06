@@ -2,7 +2,7 @@
 layout: post
 title: La habitación.
 date: 2016-08-30 19:30:00
-category: literatura, películas y mucho más.
+category: literatura, películas y mucho más
 permalink: blog/la_habitación
 published: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Anna Frank y su maravilloso empoderamiento.
 date: 2016-05-23 19:06:00
-category: literatura, películas y mucho más.
+category: literatura, películas y mucho más
 permalink: blog/ana-frank-y-su-maravilloso-empoderamiento
 published: true
 ---
